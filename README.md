@@ -24,14 +24,8 @@ This is a free 3D-printable desktop stand designed specifically for the OpenSour
 
 ## Printing Instructions
 
-1. Download the STL files from the [releases page](https://github.com/yourusername/hackrf-h4m-stand/releases)
-2. Print with the following recommended settings:
-   - Material: PLA or PETG (recommended)
-   - Layer Height: 0.2mm
-   - Infill: 15-20%
-   - Supports: Not required
-   - Orientation: Print with the back side flat on the build plate
-3. No post-processing required - the stand is ready to use after printing
+1. Download the STL / STEP
+2. Print with your 3D printer
 
 ## Installation
 
@@ -40,7 +34,7 @@ This is a free 3D-printable desktop stand designed specifically for the OpenSour
 
 ## Attribution
 
-This stand was designed by [PracticalExploit](https://physicalexploit.com) and is provided free for the HackRF community.
+This stand was designed by [Practical Physical Exploitation](https://physicalexploit.com) and is provided free for the HackRF community.
 
 ## License
 
