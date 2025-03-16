@@ -30,7 +30,8 @@ This is a free 3D-printable desktop stand designed specifically for the OpenSour
 ## Installation
 
 1. Place your H4M device into the stand with the screen facing forward
-2. For amplifier mounting, use M3 screws (not included) to attach the amplifier to the mounting holes on the back
+2. For amplifier mounting, use M2x4mm screws
+3. The sytlus channels were based on [these](https://www.amazon.com/dp/B09CDCN7VS)
 
 ## Attribution
 
